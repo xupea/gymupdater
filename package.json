@@ -1,0 +1,23 @@
+{
+  "name": "gymupdater",
+  "version": "1.0.0",
+  "description": "Update the wilddog every day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xupea/gymupdater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xupea/gymupdater/issues"
+  },
+  "homepage": "https://github.com/xupea/gymupdater#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "wilddog": "^2.5.10"
+  }
+}
